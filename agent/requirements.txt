@@ -1,0 +1,2 @@
+livekit-agents[openai, deepgram, silero, turn-detector]>=1.0
+python-dotenv>=1.0
