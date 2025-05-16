@@ -28,3 +28,9 @@ source venv/bin/activate
 pip install -r requirements.txt
 python agent.py download-files
 ```
+
+Then run the agent:
+
+```bash
+python agent.py dev
+```
